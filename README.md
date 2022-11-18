@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jGreggCode](https://github.com/jGreggCode)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
